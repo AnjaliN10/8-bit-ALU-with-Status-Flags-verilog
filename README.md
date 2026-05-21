@@ -1,4 +1,4 @@
-# 8-bit ALU with Status Flags on ESP32
+# 8-bit ALU with Status Flags
 
 This repository contains a software-based implementation of an **8-bit Arithmetic Logic Unit (ALU)** written in Embedded C.  
 The project is designed to run in a hardware-agnostic simulation mode while remaining compatible with ESP32 and typical embedded C environments.  
